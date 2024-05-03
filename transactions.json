@@ -1,0 +1,58 @@
+[
+    {
+        "date": "12-12-2001",
+        "type": "gg",
+        "category": "gg",
+        "amount": 123.0,
+        "description": "ff"
+    },
+    {
+        "date": "10-05-2001",
+        "type": "ed",
+        "category": "ed",
+        "amount": 457.0,
+        "description": "df"
+    },
+    {
+        "date": "18-09-1976",
+        "type": "Income",
+        "category": "Party",
+        "amount": 2400.49,
+        "description": "Something Good"
+    },
+    {
+        "date": "23-05-2000",
+        "type": "Income",
+        "category": "IDK",
+        "amount": 560.0,
+        "description": "THS"
+    },
+    {
+        "date": "12-12-2023",
+        "type": "dc",
+        "category": "dcfv",
+        "amount": 234.0,
+        "description": "ff"
+    },
+    {
+        "date": "12-12-2012",
+        "type": "dsc",
+        "category": "sdcds",
+        "amount": 123.0,
+        "description": "sdc"
+    },
+    {
+        "date": "23-07-2021",
+        "type": "ikm",
+        "category": "dvf",
+        "amount": 450.0,
+        "description": "dfvf"
+    },
+    {
+        "date": "06-06-2006",
+        "type": "sdf",
+        "category": "xcv",
+        "amount": 1200.0,
+        "description": "cxv"
+    }
+]
